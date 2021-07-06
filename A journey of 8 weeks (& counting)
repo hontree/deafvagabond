@@ -1,0 +1,200 @@
+<!doctype html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Simple Transactional Email</title>
+    <style>
+    /* -------------------------------------
+        INLINED WITH htmlemail.io/inline
+    ------------------------------------- */
+    /* -------------------------------------
+        RESPONSIVE AND MOBILE FRIENDLY STYLES
+    ------------------------------------- */
+    @media only screen and (max-width: 620px) {
+      table[class=body] h1 {
+        font-size: 28px !important;
+        margin-bottom: 10px !important;
+      }
+      table[class=body] p,
+            table[class=body] ul,
+            table[class=body] ol,
+            table[class=body] td,
+            table[class=body] span,
+            table[class=body] a {
+        font-size: 16px !important;
+      }
+      table[class=body] .wrapper,
+            table[class=body] .article {
+        padding: 10px !important;
+      }
+      table[class=body] .content {
+        padding: 0 !important;
+      }
+      table[class=body] .container {
+        padding: 0 !important;
+        width: 100% !important;
+      }
+      table[class=body] .main {
+        border-left-width: 0 !important;
+        border-radius: 0 !important;
+        border-right-width: 0 !important;
+      }
+      table[class=body] .btn table {
+        width: 100% !important;
+      }
+      table[class=body] .btn a {
+        width: 100% !important;
+      }
+      table[class=body] .img-responsive {
+        height: auto !important;
+        max-width: 100% !important;
+        width: auto !important;
+      }
+    }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+    /* -------------------------------------
+        PRESERVE THESE STYLES IN THE HEAD
+    ------------------------------------- */
+    @media all {
+      .ExternalClass {
+        width: 100%;
+      }
+      .ExternalClass,
+            .ExternalClass p,
+            .ExternalClass span,
+            .ExternalClass font,
+            .ExternalClass td,
+            .ExternalClass div {
+        line-height: 100%;
+      }
+      .apple-link a {
+        color: inherit !important;
+        font-family: inherit !important;
+        font-size: inherit !important;
+        font-weight: inherit !important;
+        line-height: inherit !important;
+        text-decoration: none !important;
+      }
+      #MessageViewBody a {
+        color: inherit;
+        text-decoration: none;
+        font-size: inherit;
+        font-family: inherit;
+        font-weight: inherit;
+        line-height: inherit;
+      }
+      .btn-primary table td:hover {
+        background-color: #ea8148 !important;
+      }
+      .btn-primary a:hover {
+        background-color: #ea8148 !important;
+        border-color: #ea8148 !important;
+      }
+    }
+    </style>
+  </head>
+  <body class="" style="background-color: #f6f6f6; font-family: sans-serif; -webkit-font-smoothing: antialiased; font-size: 14px; line-height: 1.4; margin: 0; padding: 0; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+    <span class="preheader" style="color: transparent; display: none; height: 0; max-height: 0; max-width: 0; opacity: 0; overflow: hidden; mso-hide: all; visibility: hidden; width: 0;">This is preheader text. Some clients will show this text as a preview.</span>
+    <table border="0" cellpadding="0" cellspacing="0" class="body" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%; background-color: #f6f6f6;">
+      <tr>
+        <td style="font-family: sans-serif; font-size: 14px; vertical-align: top;">&nbsp;</td>
+        <td class="container" style="font-family: sans-serif; font-size: 14px; vertical-align: top; display: block; Margin: 0 auto; max-width: 580px; padding: 10px; width: 580px;">
+          <div class="content" style="box-sizing: border-box; display: block; Margin: 0 auto; max-width: 580px; padding: 10px;">
+
+            <!-- START CENTERED WHITE CONTAINER -->
+            <table class="main" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%; background: #ffffff; border-radius: 3px;">
+
+              <!-- START MAIN CONTENT AREA -->
+              <tr>
+                <td class="wrapper" style="font-family: sans-serif; font-size: 14px; vertical-align: top; box-sizing: border-box; padding: 20px;">
+                  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%;">
+                    <tr><img src="https://imgur.com/CDABuVx.png" class="center" style="width: 90%;"><br>
+                      <td style="font-family: sans-serif; font-size: 14px; vertical-align: top;"><p style="font-family: sans-serif; font-size: 24px; font-weight: 600; margin-left: 6%; margin-right: 6%; Margin-bottom: 15px; ">
+Happy 4th of July!</p><p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin-left: 6%; margin-right: 6%; Margin-bottom: 15px; text-align: justify;">
+Today’s a celebration of the birth of our nation. Part of it is about looking back and seeing how far we’ve come. So, in honor of that, today’s newsletter is about what’s been accomplished over the past 8 weeks and 3 days. Boy does time fly!<br><br>
+
+<b>States visited:</b><br><br>
+
+(On the road trip): 20 (6 of which I’d already been to).<br><br>
+
+<img src="https://imgur.com/WYlGIf3.png" class="center" style="width: 90%;"><br><br>
+
+(Lifetime): 42<br><br>
+
+<img src="https://imgur.com/RsjuoZ0.png" class="center" style="width: 90%;"><br><br>
+
+This means there’s only North Carolina, West Virginia, Delaware, Connecticut, Rhode Island, Hawaii, & Alaska (7 states) left to visit!<br><br>
+
+<b>State I felt underwhelmed:</b> Utah. I'd been wanting to go to Salt Lake for a few years but when I got there it just... I looked around and was ready to move on.<br><br>
+
+<b>State that exceeded expectations:</b> Hands down, Arkansas! It is absolutely gorgeous there. On the highway, in the woods, in the suburban areas-everywhere! Not sure about the people though--in terms of ideologies. 😬<br><br>
+
+<b>Miles Driven:</b> 11,939<br><br>
+
+<b>Average MPG:</b> 40MPG. I drive a 2011 Toyota Prius. The mileage is affected because average highway speed limits are 75-80 MPH, especially in the west. While Priuses are designed to have a 48/50MPH, it’s not as efficient when you drive more than 65MPH for long periods of time on cruise control. Driving a Prius is also an art (or a science!) that I haven’t quite mastered.<br><br>
+
+I’ve also started to leave my car on at night because this weather is 🥵.<br><br>
+
+<b>Knocks:</b> 1. Camped illegally on Teton National Park grounds. (Still waiting to see if I need to pay a fine. To the Lord: Please, no! 🙏)<br><br>
+
+<b>Money spent:</b> ~$2000. I will dissect this more in depth in the future!<br><br>
+
+<b>Days on the road:</b> 31/59 days<br><br>
+
+<b>House-sits:</b> 1 (8 days). Currently 4 days into 2nd house sit. 12/59 days<br><br>
+
+<b>Time spent with family/friends:</b> 16 days. 16/59 days<br><br>
+
+<b>Awesome people I’ve met:</b> 7 humans & 5 furry ones!<br><br>
+
+<b>Record highest temperature:</b> 111 degrees (during day, in Virginia City, MT)<br><br>
+
+<b>Record lowest temperature:</b> 38 degrees (at night, in the NE)<br><br>
+
+<b>Days with/out cochlear implant (CI):</b> My estimation is that I only wear my CI about 30-40% of the time. I frequently use the notes app on my phone (or paper!) to communicate with employees at gas stations, restaurants/cafes, national parks, etc. I had 1 interaction with a waitress at Salt Lick BBQ (Austin, TX) in ASL!<br><br>
+
+Aaaaand that’s all I got for stats as of right now. Are there any stats you’re curious about (that I can expand on or haven’t mentioned)?<br><br>
+​
+
+🌠 Hana</p>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+
+            <!-- END MAIN CONTENT AREA -->
+            </table>
+
+            <!-- START FOOTER -->
+            <div class="footer" style="clear: both; Margin-top: 10px; text-align: center; width: 100%;">
+              <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%;">
+                <tr>
+                  <td class="content-block" style="font-family: sans-serif; vertical-align: top; padding-bottom: 10px; padding-top: 10px; font-size: 12px; color: #999999; text-align: center;">
+                    <span class="apple-link" style="color: #999999; font-size: 12px; text-align: center;">Company Inc, 3 Abbey Road, San Francisco CA 94102</span>
+                    <br> Don't like these emails? <a href="http://hanasherlock.com" style="text-decoration: underline; color: #999999; font-size: 12px; text-align: center;">Unsubscribe</a>.
+                  </td>
+                </tr>
+              </table>
+            </div>
+            <!-- END FOOTER -->
+
+          <!-- END CENTERED WHITE CONTAINER -->
+          </div>
+        </td>
+        <td style="font-family: sans-serif; font-size: 14px; vertical-align: top;">&nbsp;</td>
+      </tr>
+    </table>
+  </body>
+</html>
