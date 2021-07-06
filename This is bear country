@@ -1,0 +1,203 @@
+<!doctype html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Simple Transactional Email</title>
+    <style>
+    /* -------------------------------------
+        Hana Sherlock
+    ------------------------------------- */
+    /* -------------------------------------
+        RESPONSIVE AND MOBILE FRIENDLY STYLES
+    ------------------------------------- */
+    @media only screen and (max-width: 620px) {
+      table[class=body] h1 {
+        font-size: 28px !important;
+        margin-bottom: 10px !important;
+      }
+      table[class=body] p,
+            table[class=body] ul,
+            table[class=body] ol,
+            table[class=body] td,
+            table[class=body] span,
+            table[class=body] a {
+        font-size: 16px !important;
+      }
+      table[class=body] .wrapper,
+            table[class=body] .article {
+        padding: 10px !important;
+      }
+      table[class=body] .content {
+        padding: 0 !important;
+      }
+      table[class=body] .container {
+        padding: 0 !important;
+        width: 100% !important;
+      }
+      table[class=body] .main {
+        border-left-width: 0 !important;
+        border-radius: 0 !important;
+        border-right-width: 0 !important;
+      }
+      table[class=body] .btn table {
+        width: 100% !important;
+      }
+      table[class=body] .btn a {
+        width: 100% !important;
+      }
+      table[class=body] .img-responsive {
+        height: auto !important;
+        max-width: 100% !important;
+        width: auto !important;
+      }
+    }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+    /* -------------------------------------
+        PRESERVE THESE STYLES IN THE HEAD
+    ------------------------------------- */
+    @media all {
+      .ExternalClass {
+        width: 100%;
+      }
+      .ExternalClass,
+            .ExternalClass p,
+            .ExternalClass span,
+            .ExternalClass font,
+            .ExternalClass td,
+            .ExternalClass div {
+        line-height: 100%;
+      }
+      .apple-link a {
+        color: inherit !important;
+        font-family: inherit !important;
+        font-size: inherit !important;
+        font-weight: inherit !important;
+        line-height: inherit !important;
+        text-decoration: none !important;
+      }
+      #MessageViewBody a {
+        color: inherit;
+        text-decoration: none;
+        font-size: inherit;
+        font-family: inherit;
+        font-weight: inherit;
+        line-height: inherit;
+      }
+      .btn-primary table td:hover {
+        background-color: #ea8148 !important;
+      }
+      .btn-primary a:hover {
+        background-color: #ea8148 !important;
+        border-color: #ea8148 !important;
+      }
+    }
+    </style>
+  </head>
+  <body class="" style="background-color: #f6f6f6; font-family: sans-serif; -webkit-font-smoothing: antialiased; font-size: 14px; line-height: 1.4; margin: 0; padding: 0; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+    <span class="preheader" style="color: transparent; display: none; height: 0; max-height: 0; max-width: 0; opacity: 0; overflow: hidden; mso-hide: all; visibility: hidden; width: 0;">This is preheader text. Some clients will show this text as a preview.</span>
+    <table border="0" cellpadding="0" cellspacing="0" class="body" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%; background-color: #f6f6f6;">
+      <tr>
+        <td style="font-family: sans-serif; font-size: 14px; vertical-align: top;">&nbsp;</td>
+        <td class="container" style="font-family: sans-serif; font-size: 14px; vertical-align: top; display: block; Margin: 0 auto; max-width: 580px; padding: 10px; width: 580px;">
+          <div class="content" style="box-sizing: border-box; display: block; Margin: 0 auto; max-width: 580px; padding: 10px;">
+
+            <!-- START CENTERED WHITE CONTAINER -->
+            <table class="main" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%; background: #ffffff; border-radius: 3px;">
+
+              <!-- START MAIN CONTENT AREA -->
+              <tr>
+                <td class="wrapper" style="font-family: sans-serif; font-size: 14px; vertical-align: top; box-sizing: border-box; padding: 20px;">
+                  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%;">
+                    <tr><img src="https://imgur.com/wnxFHp3.png" class="center" style="z-index: -999; width: 100%;"><br>
+                      <td style="font-family: sans-serif; font-size: 14px; vertical-align: top;"><p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin-top: -220px; margin-left: 12%; margin-right: 12%; Margin-bottom: 15px; text-align: justify;">
+June 1st, 2021, was quite the day. I was in Teton National Park in Wyoming.<br><br>
+
+I got my first “knock.” In the van life and car camping communities, it is a term used for when the cops come and tell you to move. They may or may not fine you. I’m pretty sure this one did. Just have to wait for it to be mailed.<br><br>
+
+This knock could have been completely avoided had I left before 9 am like my gut had been telling me to do. Also, something that could have been completely avoided had I realized that this “camping spot” was on the wrong side of the park lines. No regrets here. Met some guys who were a delight to talk to, plus we woke up to a beautiful view of the three Teton mountains.<br><br>
+
+Once the sheriff moved on to the next set of violators, I went on a scenic hike around Phelp’s Lake. The sights are gorgeous. And plenty of other people would have to agree, judging by how many I passed during the 4 hours it took to complete it. I saw various animals, from prairie dogs to chipmunks, and even a moose! Even butterflies and ants that are easily twice the size of those in Cincinnati, OH.<br><br>
+ 
+ <img src="https://imgur.com/0cqUUAL.png" class="center" style="width: 80%;"><br>
+
+No bears. I would have plenty of opportunities later but did not see one until I got to Yellowstone National Park.<br><br>
+
+Anyway, now that I’ve completed my hike and it’s late enough in the day that I’m just exhausted, and I want to find my parking spot for the night. Well… I never made it.<br><br>
+
+I was headed up to Grassy Reservoir, which is a lake just outside of Yellowstone’s boundary. There were two routes I could take. One that had tolls and was a straight line to the destination, the other which didn’t and was twice as long. <br><br>
+
+I chose the second one, thinking it’d be a lot like the paved back roads of the North East. And it was. For a while. But as time went on, the paved roads turned into gravel, and the gravel turned into dirt, then mud and patches of snow, which steadily moved towards the center of the road the deeper I got into No-Man’s Land.<br><br>
+
+The first time I got stuck, there was a big patch of snow that covered the right side of the road and a thin patch towards the left side, which was bordered by a parallel line of dry dirt. I remember putting my foot on the brake and briefly pondering over whether or not my car could make it through this patch. The last thing I wanted to do was bottom out again in these last 24 hours, but… I was only 5 miles away from my spot for the night, and none of the various patches of snow I’d passed up to now had been bad enough that my car couldn’t cautiously breeze through it.<br><br>
+
+So I put my foot on the gas, and the car rolled forward to an abrupt stop. I pressed on the brakes and then on the gas. No dice. Brakes put the car into R mode and pressed P when I got to the original spot. I tried the same thing again with the same result.<br><br>
+
+Now, if I just had a shovel. Even a hand shovel, like the guys had… Just a shovel. I can get past this in no time if I had a shovel.<br><br>
+
+I reached behind the driver’s seat to where my canned foods are and whipped out a green cutting board. It wasn’t the ideal shovel, but desperate times call for desperate measures.<br><br>
+
+In the snow, I could see the faint lines where the underside of the car got stuck, so I planted the cutting board in the middle of the skinny strip and pulled the snow between my legs. Over and over for the next hour, I would plant the cutting board into the snow and dice it up so it would be easier to push out of the way. All the while, I would occasionally get back into my car and ride it up as far as it would go and then back a bit, so I had room to shovel on. All the while, a swarm of mosquitoes vyed for the perfect place on my body to eat me alive (because it is also 70 degrees outside). All the while, there’s the threat of bears looming, and I can’t hear a damn thing because my processor died when I got back into my car after the day’s hike.<br><br>
+
+I didn’t feel scared. Just determined to get past this patch of snow!<br><br>
+
+Which I did. After an hour of toiling away, I had freedom!!<br><br>
+
+… For .1 miles. I’d managed to drive my car into an even bigger patch of snow. A patch of snow that I would sink down to my knees in as I got out of my car and walked around it. My car was now sitting at an angle off the ground; the front wheels 2cms too high that the wheels could spin when told to do so.<br><br>
+
+At this point, all I want to do is turn around. I know that it would take too long for me to get past all of this snow, let alone the patches that I could now clearly see looming just ahead. All I could think was this is what happens when you don’t follow your gut.<br><br>
+
+I had no T-Mobile service and a spotty connection with Verizon. My first thought was to call AAA, but I could only send Mom a cryptic text that said I need aaa help. I didn’t know if that would get through or not, so I got out the cutting board again and got right back to work.<br><br>
+
+The cutting board proved to be too big this time, so I got out my fork and liquid measuring cup to help the process. I even got out my fuzzy socks to wear as mittens. I went back and forth between trying to dig myself out and getting back into my car. I was getting dizzy now with hunger. I kept putting food off because I wanted to get myself out of here and because of the bears. I’d been told, multiple times, that they would come for you if you weren’t careful about containing your food.<br><br>
+
+After an hour or two passed, I said “Screw it,” and warmed up some soup on the top of my car. I had just enough time to get back into the car when I noticed, out of my rearview mirror, a Polaris Razor pull up 15 feet behind me.<br><br>
+
+An older couple got out, asked if I was stuck, and didn’t hesitate to tow me out. It was a process that reeled in one of their sons and kept us up until 2:30 am, when we finally got back to their place. I am so grateful for their help and hospitality. I’m excited that we’ll be staying in touch from here on out!<br><br>
+
+Needless to say, I've learned my lessons. From here on out, I will stick to paved roads and try not to freak out when I see "tolls" when it comes to national parks. I have a disability National Parks pass for that!<br><br>
+
+🌠 Hana<br><br>
+
+P.S. The best part of all this is that despite my sheer stubbornness, it was still a damn good day.
+</p>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+
+            <!-- END MAIN CONTENT AREA -->
+            </table>
+
+            <!-- START FOOTER -->
+            <div class="footer" style="clear: both; Margin-top: 10px; text-align: center; width: 100%;">
+              <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%;">
+                <tr>
+                  <td class="content-block" style="font-family: sans-serif; vertical-align: top; padding-bottom: 10px; padding-top: 10px; font-size: 12px; color: #999999; text-align: center;">
+                    <span class="apple-link" style="color: #999999; font-size: 12px; text-align: center;">Company Inc, 3 Abbey Road, San Francisco CA 94102</span>
+                    <br> Don't like these emails? <a href="http://hanasherlock.com" style="text-decoration: underline; color: #999999; font-size: 12px; text-align: center;">Unsubscribe</a>.
+                  </td>
+                </tr>
+              </table>
+            </div>
+            <!-- END FOOTER -->
+
+          <!-- END CENTERED WHITE CONTAINER -->
+          </div>
+        </td>
+        <td style="font-family: sans-serif; font-size: 14px; vertical-align: top;">&nbsp;</td>
+      </tr>
+    </table>
+  </body>
+</html>
