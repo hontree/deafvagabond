@@ -1,0 +1,217 @@
+<!doctype html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <style>
+    /* -------------------------------------
+       Hana Sherlock
+    ------------------------------------- */
+    /* -------------------------------------
+        RESPONSIVE AND MOBILE FRIENDLY STYLES
+    ------------------------------------- */
+    @media only screen and (max-width: 620px) {
+      table[class=body] h1 {
+        font-size: 28px !important;
+        margin-bottom: 10px !important;
+      }
+      table[class=body] p,
+            table[class=body] ul,
+            table[class=body] ol,
+            table[class=body] td,
+            table[class=body] span,
+            table[class=body] a {
+        font-size: 16px !important;
+      }
+      table[class=body] .wrapper,
+            table[class=body] .article {
+        padding: 10px !important;
+      }
+      table[class=body] .content {
+        padding: 0 !important;
+      }
+      table[class=body] .container {
+        padding: 0 !important;
+        width: 100% !important;
+      }
+      table[class=body] .main {
+        border-left-width: 0 !important;
+        border-radius: 0 !important;
+        border-right-width: 0 !important;
+      }
+      table[class=body] .btn table {
+        width: 100% !important;
+      }
+      table[class=body] .btn a {
+        width: 100% !important;
+      }
+      table[class=body] .img-responsive {
+        height: auto !important;
+        max-width: 100% !important;
+        width: auto !important;
+      }
+    }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+    /* -------------------------------------
+        PRESERVE THESE STYLES IN THE HEAD
+    ------------------------------------- */
+    @media all {
+      .ExternalClass {
+        width: 100%;
+      }
+      .ExternalClass,
+            .ExternalClass p,
+            .ExternalClass span,
+            .ExternalClass font,
+            .ExternalClass td,
+            .ExternalClass div {
+        line-height: 100%;
+      }
+      .apple-link a {
+        color: inherit !important;
+        font-family: inherit !important;
+        font-size: inherit !important;
+        font-weight: inherit !important;
+        line-height: inherit !important;
+        text-decoration: none !important;
+      }
+      #MessageViewBody a {
+        color: inherit;
+        text-decoration: none;
+        font-size: inherit;
+        font-family: inherit;
+        font-weight: inherit;
+        line-height: inherit;
+      }
+      .btn-primary table td:hover {
+        background-color: #ea8148 !important;
+      }
+      .btn-primary a:hover {
+        background-color: #ea8148 !important;
+        border-color: #ea8148 !important;
+      }
+    }
+    </style>
+  </head>
+  <body class="" style="background-color: #f6f6f6; font-family: sans-serif; -webkit-font-smoothing: antialiased; font-size: 14px; line-height: 1.4; margin: 0; padding: 0; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+    <span class="preheader" style="color: transparent; display: none; height: 0; max-height: 0; max-width: 0; opacity: 0; overflow: hidden; mso-hide: all; visibility: hidden; width: 0;">This is preheader text. Some clients will show this text as a preview.</span>
+    <table border="0" cellpadding="0" cellspacing="0" class="body" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%; background-color: #f6f6f6;">
+      <tr>
+        <td style="font-family: sans-serif; font-size: 14px; vertical-align: top;">&nbsp;</td>
+        <td class="container" style="font-family: sans-serif; font-size: 14px; vertical-align: top; display: block; Margin: 0 auto; max-width: 580px; padding: 10px; width: 580px;">
+          <div class="content" style="box-sizing: border-box; display: block; Margin: 0 auto; max-width: 580px; padding: 10px;">
+
+            <!-- START CENTERED WHITE CONTAINER -->
+            <table class="main" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%; background: #ffffff; border-radius: 3px;">
+
+              <!-- START MAIN CONTENT AREA -->
+              <tr>
+                <td class="wrapper" style="font-family: sans-serif; font-size: 14px; vertical-align: top; box-sizing: border-box; padding: 20px;">
+                  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%;">
+                    <tr><img src="https://static.tumblr.com/ffcwczq/h95qvqbmj/4thjulynewsletter.png" class="center" style="width: 90%;"><br>
+<p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin-left: 6%; margin-right: 6%; Margin-bottom: 15px; text-align: justify;">
+Have you ever wondered what it was to live right on the cusp of two time zones?<br><br>
+
+This is a question I'd been asking myself off and on for the last two years. A question I'd been asking myself for the week as I zig-zagged between the Pacific and Mountain time zones.<br><br>
+
+No longer was I not sure what day it was, I was now not sure what time it was. It came to bite me in the ass in Wendover, Utah, a tiny town right on the border of Nevada.<br><br>
+
+If you’re curious how the time zones are laid out, here’s a handy dandy cheat sheet. (The red dot is where Wendover is, roughly speaking.)<br><br>
+​
+<img src="https://imgur.com/JeDoY1O.png" class="center" style="width: 90%;"><br><br>
+
+Anyway, on the east side of Wendover is the Bonneville Salt Flats. I got there in time for the sunset, and it was very cool. Flat, blindingly white, and windy like there’s no tomorrow. I parked my car on a gravel parking lot at the foot of the mountains for the night. The mountains are on Bureau Land Management (BLM) property, so it was a safe overnight spot!<br><br>
+​
+<img src="https://imgur.com/yhAQxJS.png" class="center" style="width: 90%;"><br><br>
+
+The following day, I woke up at about 6:30a and immediately got into the driver’s seat. I had a long few days ahead of me because, by this time, I knew that I needed to get to Austin, TX, within the next two or three days for a house-sitting opportunity I agreed to.<br><br>
+
+That day, I had about 10 hours of driving to do with Las Vegas to see in between. I figured that, with how early I got on the road, I’d have the afternoon to walk the Strip (and even gamble a bit-what else are you supposed to do?!), but before I could zoom away, one of the warning lights in my car went off.<br><br>
+
+My tires. I hadn’t even driven 10 miles for the day, and my tires were already going out on me! What made it all the more confusing is that I’d gotten my car serviced the day before, in Salt Lake City, by a local auto shop that seemed trustworthy enough. The oil was changed and the tires rotated (woohoo for 8K miles!). Wasn’t the tire light supposed to go off before I got my car serviced? Yeah, this didn’t make sense.<br><br>
+
+My first thought was to just calm the F down and pull up to an air pump when I reached the gas station. Turns out none of the gas stations in the vicinity had an air pump. What kind of town doesn’t have <I>any</i> air pumps around?<br><br>
+
+<img src="https://imgur.com/sdCjeuc.png" class="center" style="width: 90%;"><br><br>
+
+So I went on Google and scrolled through the endless amount of shops around and located one that was open 24/7. I drove the 10 miles back to the Salt Flats, where this shop was located. It was a bunch of trailer homes behind a gas station, two with the shop signage on them and a neon open sign in one of the windows, which wasn’t on. So many wheels of various sizes were either stacked up or hanging loose around the property.<br><br>
+
+Based on the urgency I felt to get on the road for real, mixed with the reviews I saw, I decided to put on my cochlear implant and dial their number.<br><br>
+
+<I>Brr… Brr… Brr…</i> “Hello?”<br><br>
+
+“Hello, I’m calling because my tire light came on and I’m not sure why because they were rotated yesterday…. I was wondering if you could help me figure this out?”<br><br>
+
+“We’re not open until 8.”<br><br>
+
+“... Oh… Well, I need help with my tires so…”<br><br>
+
+“Again, we’re not open until 8, but if you don’t want to wait…”<br><br>
+
+I didn’t understand much beyond that. It didn’t help that my brain was still trying to process the misleading hours.<br><br>
+
+<img src="https://imgur.com/rgXOR7J.png" class="center" style="width: 90%;"><br><br>
+
+
+By then, it was 7:20a, so 40 minutes couldn’t be that bad. So, for 40 minutes, I sat there anxiously going between being glued to my phone and looking over my shoulder to see the semi-trucks that were just crawling out of their resting spots. The 40 minutes turned into 50 minutes. And not wanting it to turn into 60 minutes, I looked up another shop and drove back the way I came.<br><br>
+
+From there, I continued to drive in circles with gritted teeth and shoulders nailed to my ears for the next hour or so until I finally pulled into a shop that had a white tire for its sign. It was the very one that owned the 24/7 shop that I first called up. Turns out the shop is on the Nevada side of town, and the 24/7 shop is on the Utah side of town.<br><br>
+
+It was 9a at that point for me, and 8a for them. Which meant it was 6:20a for them when I called. This leads me to wonder how often they get this kind of call, given the destination is located just outside of the town lines. 'Cause daylight savings for the countries that do use this system has nothing on Wendover. And aaaaallll the towns that reside on the cusp of two time zones.<br><br>
+
+<img src="https://imgur.com/zRPjFCc.png" class="center" style="width: 90%;"><br><br>
+
+Then again, as one of my brothers has said in the past--mostly when it comes to people who live on busy streets and may have a hard time pulling in/out of their driveways--“It’s not our fault. They chose to live there.”<br><br>
+
+As bad as I felt for potentially waking them up, I was just glad they were finally open for business. Their service was cheerful as they properly inflated the tires.<br><br>
+
+The only caveat is that my tire sensor is faulty and needs to be replaced. The Prius maybe breaking down is something that I did not expect would actually happen given the condition I bought it in.<br><br>
+
+Not to mention I was spoiled by the last time I went on a solo road trip (back in 2019), I was driving a ‘99 Toyota Camry. Not once did the car show any signs of giving out. Even despite the fact that by the time I got home, the tires were so worn the rubber was smooth to the inner side. The car mechanic I had on speed dial at the time said I was lucky to have made it all that way and back (AKA 10K miles) in one piece.<br><br>
+
+Whew, the shit I get myself into.<br><br>
+
+Now my question for the week to you: have you ever had a question answered by a situation you found yourself in? If so, what was the question and what happened?<br><br>
+​
+
+🌠 Hana</p>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+
+            <!-- END MAIN CONTENT AREA -->
+            </table>
+
+            <!-- START FOOTER -->
+            <div class="footer" style="clear: both; Margin-top: 10px; text-align: center; width: 100%;">
+              <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%;">
+                <tr>
+                  <td class="content-block" style="font-family: sans-serif; vertical-align: top; padding-bottom: 10px; padding-top: 10px; font-size: 12px; color: #999999; text-align: center;">
+                    <span class="apple-link" style="color: #999999; font-size: 12px; text-align: center;">Company Inc, 3 Abbey Road, San Francisco CA 94102</span>
+                    <br> Don't like these emails? <a href="http://hanasherlock.com" style="text-decoration: underline; color: #999999; font-size: 12px; text-align: center;">Unsubscribe</a>.
+                  </td>
+                </tr>
+              </table>
+            </div>
+            <!-- END FOOTER -->
+
+          <!-- END CENTERED WHITE CONTAINER -->
+          </div>
+        </td>
+        <td style="font-family: sans-serif; font-size: 14px; vertical-align: top;">&nbsp;</td>
+      </tr>
+    </table>
+  </body>
+</html>
